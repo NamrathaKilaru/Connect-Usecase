@@ -5,9 +5,13 @@ Amazon Connect integrates with other AWS services like AWS Lamda  and Amazon Dyn
 Elements in this demo will include:
 
 **Amazon Connect** - Create Queues, Routing Profiles, and configure Users
+
 **AWS IAM** - Create an IAM Policy and Role that allows Lambda to integrate with DynamoDB
+
 **Amazon DynamoDB** - Create DynamoDB Table to host Contact IDs that will set Membership Level
+
 **AWS Lambda** - Import function for integration and data exchange between Amazon Connect & DynamoDB
+
 **Amazon Connect** - Update your contact flow with Queues and AWS Lambda functions
 
 **Creating Dynamic personalized experiences in Amazon Connect**
